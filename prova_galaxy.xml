@@ -1,5 +1,5 @@
 <tool id ="prova_galaxy" name ="prova_galaxy" version="1.0.0" profile="20.05">
-  <description>Accurate positivity computer.</description>
+  <description>This tool takes methyldackel data and computes freqc.</description>
   <macros>
     <token name="@TOOL_VERSION@">1.0.0</token>
   </macros>
