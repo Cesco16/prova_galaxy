@@ -18,6 +18,6 @@
     </outputs>
     <help><![CDATA[
 **What it does**
-Morandi_Ragazzi_tool takes a MethylDackel file containing methylation percentages from 13 informative CpGs as input and computes a score which assesses the Oral Squamous Cell Carcinoma positivity
+takes a methyldackel file
     ]]></help>
 </tool>
