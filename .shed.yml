@@ -1,0 +1,10 @@
+categories:
+- Text Manipulation
+description: This tool takes methyldackel data and computes freqc.
+homepage_url: https://github.com/Cesco16/prova_galaxy
+long_description: |
+    This tool takes methyldackel data and computes freqc.
+name: prova_galaxy
+owner: fcsd
+remote_repository_url: https://github.com/Cesco16/prova_galaxy
+type: unrestricted
