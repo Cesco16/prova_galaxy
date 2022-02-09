@@ -1,9 +1,9 @@
 categories:
 - Text Manipulation
-description: This tool takes methyldackel data and computes freqc.
+description: This tool takes methyldackel CpG data and computes a numerical score.
 homepage_url: https://github.com/Cesco16/prova_galaxy
 long_description: |
-    This tool takes methyldackel data and computes freqc.
+    This tool takes methyldackel CpG data and computes a numerical score.
 name: prova_galaxy
 owner: fcsd
 remote_repository_url: https://github.com/Cesco16/prova_galaxy
