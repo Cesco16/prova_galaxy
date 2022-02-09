@@ -1,7 +1,7 @@
-<tool id ="prova_galaxy" name ="prova_galaxy" version="" profile="">
+<tool id ="prova_galaxy" name ="prova_galaxy" version="1.0.0" profile="20.05">
   <description>Accurate positivity computer.</description>
   <macros>
-    <token name="@TOOL_VERSION@">0.0.1</token>
+    <token name="@TOOL_VERSION@">1.0.0</token>
   </macros>
   <requirements>
     <requirement type></requirement>
