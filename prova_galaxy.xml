@@ -8,13 +8,13 @@
   </requirements>
   <version_command>python '$__tool_directory__/prova_galaxy.py'</version_command>
   <command interpreter="python"><![CDATA[
-    prova_galaxy.py --inputfile '${inputdackel}' --outputFile '${result}'
+    prova_galaxy.py --inputfile '${input1}' --outputFile '${output1}'
     ]]></command>
    <inputs>
-      <param name="inputdackel" type="text"/>
+      <param name="input1" type="text"/>
    </inputs>
    <outputs>
-     <data name="result" format="txt" from_work_dir="result.txt" label="${tool.name} on ${on_string}"/>
+     <data name="output1" format="txt" from_work_dir="result.txt" label="${tool.name} on ${on_string}"/>
    </outputs>
    <tests>
     <test>
